@@ -10,3 +10,5 @@ node <file_name_with_path.js>
 One need not see the entire script's output.
 Comment out lines using //
 Multiline comments can be enclosed within /* and */
+
+Please bear with the order of files. GIT seems to be doing an alphabetical sort, rather than numerical sort.
