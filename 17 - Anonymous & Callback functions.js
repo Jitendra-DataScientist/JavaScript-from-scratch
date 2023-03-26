@@ -29,8 +29,8 @@ sum1 ( 10, 30, log_result );                                                    
 // the main function. For example, above function call can be re-written as:
 
 sum1 ( 30, 20, function log_result_1 ( to_print ) {
-									console.log ( to_print );
-				}
+						console.log ( to_print );
+		}
 );                                                                                   // 50
 
 
@@ -39,8 +39,8 @@ sum1 ( 30, 20, function log_result_1 ( to_print ) {
 // function, so above further reduces to:
 
 sum1 ( 10, 50, function log_result ( to_print ) {
-									console.log ( to_print );
-				}
+						console.log ( to_print );
+		}
 );                                                                                   // 60
 
 
