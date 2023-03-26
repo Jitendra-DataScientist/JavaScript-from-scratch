@@ -48,13 +48,3 @@ sum1 ( 10, 50, function log_result ( to_print ) {
 // trying in the same line, though below is not recommended:
 
 sum1 ( 30, 50, function log_result ( to_print ) { console.log ( to_print ); } );     // 80
-
-
-
-
-
-
-
-
-
-
